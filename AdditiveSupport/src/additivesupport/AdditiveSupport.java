@@ -6,7 +6,7 @@
 package additivesupport;
 
 /**
- * Test for branch
+ * Test for branches
  * @author noraa
  */
 public class AdditiveSupport {
